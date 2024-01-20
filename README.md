@@ -14,5 +14,5 @@
 - :student: Master's in Math
 
 ### Certificate 
-- [Python](https://stepik.org/cert/1188135?lang=en)
+- Stepik "Поколение Python" [сертификат](https://stepik.org/cert/1188135?lang=en)
 
