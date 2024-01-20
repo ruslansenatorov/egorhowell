@@ -12,3 +12,7 @@
 - :writing_hand: Write technical blogs on my [WebSite](https://www.senatorov.su/) 
 - ⚡ I enjoy: Math :) 
 - :student: Master's in Math
+
+### Certificate 
+- [Python](https://stepik.org/cert/1188135?lang=en)
+
