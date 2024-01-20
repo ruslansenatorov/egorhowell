@@ -1,5 +1,5 @@
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/@senatorov)
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/senatorov)
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/senatorov1)
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCabAgDWCFd1bHFsBHy9yapw)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCabAgDWCFd1bHFsBHy9yapw)
