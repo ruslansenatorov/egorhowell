@@ -16,3 +16,4 @@
 ### Certificate 
 - Stepik "Поколение Python" [сертификат](https://stepik.org/cert/1188135?lang=en)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslansenatorov&show_icons=true&theme=transparent)
